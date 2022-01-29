@@ -1,6 +1,6 @@
 {
   "name": "au.com.jakeperry.unity.editorhelpers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Editor Helpers",
   "description": "Helpers for editor tools, inspectors, etc",
   "unity": "2018.4",
