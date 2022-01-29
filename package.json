@@ -1,0 +1,12 @@
+{
+  "name": "au.com.jakeperry.editorhelpers",
+  "version": "1.0.0",
+  "displayName": "Editor Helpers",
+  "description": "Helpers for editor tools, inspectors, etc",
+  "unity": "2018.4",
+  "author": {
+    "name": "Jake Perry",
+	"email": "jakeperrygamedev@gmail.com",
+	"url": "https://github.com/nandos13/JakePerry.Unity.EditorHelpers"
+  }
+}
